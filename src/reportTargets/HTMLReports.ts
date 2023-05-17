@@ -13,3 +13,4 @@ export class HTMLReport implements OutputTarget {
     fs.writeFileSync('report.html', html);
   }
 }
+[];
